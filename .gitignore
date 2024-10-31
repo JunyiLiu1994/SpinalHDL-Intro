@@ -1,0 +1,10 @@
+.metals
+.bloop
+out
+simWorkspace
+/*.v
+/test
+*.bin
+*.bak
+sim_build
+__pycache__
